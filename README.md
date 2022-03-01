@@ -1,6 +1,6 @@
 # Jess Peck
 
-Hi there 👋 I'm currently enjoying learning more C# and using the Visual Studio WinForms UI.
+Hi there 👋 I'm currently enjoying learning C# and using Visual Studio.
 
 ### Languages I know...
 - Python
@@ -8,8 +8,3 @@ Hi there 👋 I'm currently enjoying learning more C# and using the Visual Studi
 
 ### I'm starting to learn...
 - OCaml on Ubuntu
-
-### Some of my favourite public projects...
-- HangMan
-- GameOfLife (Conway's Game of Life)
-- SnakesAndLadders
