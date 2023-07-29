@@ -1,10 +1,9 @@
 # Jess Peck
 
-Hi there 👋 I'm currently enjoying learning C# and using Visual Studio.
+Hi there 👋 I am a Computer Science who is interested in cyrptology and software development!
 
-### Languages I know...
-- Python
-- C#
+### My strengths...
+[![My Skills](https://skillicons.dev/icons?i=py,cs)](https://skillicons.dev)
 
-### I'm starting to learn...
-- OCaml on Ubuntu
+### I am currently learning...
+[![My Skills](https://skillicons.dev/icons?i=java,ocaml)](https://skillicons.dev)
